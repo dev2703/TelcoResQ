@@ -1,0 +1,11 @@
+response_id,timestamp,respondent_type,network_satisfaction,disaster_recovery_confidence,outage_impact,overall_feedback
+1,2024-05-15T10:30:00Z,Network Engineer,2,2,High,"The last major outage was a nightmare. Our failover systems did not kick in as expected, and the customer impact was severe. We need to rethink our entire disaster recovery protocol."
+2,2024-05-15T11:05:00Z,Manager,4,5,Low,"I'm very confident in our new backup power solutions. The team has done an excellent job, and recent minor incidents were handled flawlessly. Great work."
+3,2024-05-16T09:00:00Z,Technician,3,3,Medium,"Restoring service after the fiber cut took longer than it should have. We had the parts, but the communication from central command was unclear. The process itself is fine, but coordination is lacking."
+4.2024-05-17T14:22:00Z,Customer Support,1,1,High,"We were flooded with calls during the recent downtime. Customers were angry about the lack of a clear timeline for restoration. We need to be more transparent during an outage."
+5,2024-05-18T16:45:00Z,Network Engineer,5,4,Low,"The system's resilience has improved significantly over the last year. Our redundancy measures are solid and I feel prepared for most common issues like equipment failure."
+6,2024-05-20T13:00:00Z,Manager,3,3,Medium,"While our core network is robust, I'm concerned about the resilience of our last-mile infrastructure, especially in rural areas. A single storm could take out a whole region."
+7,2024-05-21T11:15:00Z,Technician,4,3,Medium,"The new monitoring tools are great for identifying potential failures before they happen. However, I still think we need more hands-on training for disaster recovery simulations."
+8,2024-05-22T08:50:00Z,Network Engineer,2,2,High,"We are understaffed for a large-scale event. The team is skilled, but burnout is a real risk. We can't ensure network resilience without adequate staffing levels for emergencies."
+9,2024-05-23T17:00:00Z,Customer Support,4,4,Low,"Customers have been much happier since the last infrastructure upgrade. Call volume related to service interruptions is way down. It's a huge improvement."
+10,2024-05-24T10:00:00Z,Manager,2,3,Medium,"Our dependence on a single fiber optic provider for a critical link is a major vulnerability. We need to diversify our backbone connections to mitigate this risk." 
